@@ -29,7 +29,7 @@ if __name__ == '__main__':
 	target_update_intv = 500  # in terms of iterations
 	max_episodes = 5000
 	max_steps = 500
-	lr = 0.01
+	lr = 0.008
 	discount_factor = 0.99
 	batch_size = 256
 	goal = 200
