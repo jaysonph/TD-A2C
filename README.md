@@ -1,4 +1,4 @@
-# a2c-temporal-difference
+# TD-based Advantage Actor Critic
 Advantage Actor Critic (A2C) algorithm is a widely used algorithm in reinforcement learning. Conventionally, the vanilla A2C is always implemented in Monte Carlo setting. In this repository, off-policy A2C in Temporal Difference setting is implemented to solve the Cartpole problem.
 
 ## Highlighted features
