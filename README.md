@@ -3,7 +3,7 @@ Advantage Actor Critic (A2C) algorithm is a widely used algorithm in reinforceme
 
 ## Highlighted features
 ### Replay buffer
-More efficient use of previous experience, by learning with it multiple times.
+More efficient use of previous experience by training the model with the same past experience for multiple times.
 
 ### Target network
 Allowing a more stable learning of the value network by enabling more consistent TD targets predicted by a freezed value network.
